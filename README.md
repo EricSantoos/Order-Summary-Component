@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/EricSantoos/Order-Summary-Component)
+- Live Site URL: [Add live site URL here](https://order-summary-component-eric-santoos.netlify.app)
 
 ### Built with
 
@@ -33,5 +33,5 @@ Users should be able to:
 
 # Author
 
-- Website - [Eric Santos](https://www.your-site.com)
+- Website - [Eric Santos](https://github.com/EricSantoos)
 - Frontend Mentor - [EricSantoos](https://www.frontendmentor.io/profile/EricSantoos)
